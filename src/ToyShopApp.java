@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ToyShopApp {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in, "UTF-8");
+        Scanner scanner = new Scanner(System.in,  "UTF-8");
         int option;
         String name;
         double price;
