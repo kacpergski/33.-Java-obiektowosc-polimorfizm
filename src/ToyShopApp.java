@@ -15,7 +15,6 @@ public class ToyShopApp {
         System.out.println("3.- add book");
         System.out.println("4.- add puzzle");
         System.out.println("5.- display all");
-
         System.out.println("0.- stop");
 
         option = scanner.nextInt();
